@@ -127,6 +127,7 @@ Here’s a selection of blogs and newsletters I personally read for ideas, Swift
 - [Learn And Code With Enid](https://www.learnandcodewithenid.com/blog)
 - [liman.io](https://liman.io/)
 - [Joe's Blog](https://duriansoftware.com/joe/)
+- [iOS Coffee Break](https://www.ioscoffeebreak.com/)
 
 ## Key Web Pages, Tutorials, and Tools for iOS & Beyond
 Whether you’re focusing strictly on iOS or venturing into broader mobile development, staying on top of fresh techniques and reliable resources is essential. Here’s a curated set of blogs, tutorials, and tools that will help you discover best practices, explore new frameworks, and keep pace with the evolving world of mobile apps.
